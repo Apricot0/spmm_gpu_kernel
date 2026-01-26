@@ -1,6 +1,7 @@
 # N:M Sparse Matrix Multiplication - Course Project
 
 GPU kernels for N:M structured sparse matrix multiplication (50% sparsity, 2:4 pattern) on NVIDIA RTX 4070.
+Report is located in root as GPU.pdf
 
 ## Directory Structure
 
